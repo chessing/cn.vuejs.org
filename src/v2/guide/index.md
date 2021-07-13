@@ -170,7 +170,7 @@ var app4 = new Vue({
     todos: [
       { text: '学习 JavaScript' },
       { text: '学习 Vue' },
-      { text: '整个牛项目' }
+      { text: '整个牛项目' },
     ]
   }
 })
